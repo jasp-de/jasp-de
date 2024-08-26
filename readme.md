@@ -17,7 +17,7 @@ I am really excited about:
   📝 lead creative projects (specialized in interactive 3D web applications)
 
 I love using my skills in programming, marketing and business develpoment to bring complex creative projects to life!  
-Check out my portfolio on my [website](https://dankylabs.com)
+Check out my portfolio on my [website.](https://dankylabs.com)
 
 ---
 ![programmer humor](code.jpg)

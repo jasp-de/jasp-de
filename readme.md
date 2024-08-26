@@ -5,9 +5,9 @@ Hi there, my name is Jasper, I am a creative web developer and e-commerce expert
 After studying in the Netherlands, I am now based in Berlin.  
 I am really excited about:
 
-- art, design & technology
+- art & design
 - AI for SMBs
-- psychology & health 
+- psychology
   
 ## What I can do for Your Business 
   

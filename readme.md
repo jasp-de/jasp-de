@@ -7,4 +7,4 @@ Things I get excited about:
 - health & fitness
 
 Check out my portfolio on my [website](https://dankylabs.com)  
-![programmer humor](code.jpg)
+![programmer humor](code (1).jpg)

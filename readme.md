@@ -12,8 +12,8 @@ I am excited about:
 ## What i can do for you:  
   
   🎨 design beautiful landing pages  
-  💰 build custom shopify store themes & apps  
-  🤖 code business automations (gmail, shopify, zapier, chatGPT, ...)  
+  💰 build custom shopify themes & apps  
+  🤖 code business automations (gmail, sheets, shopify, zapier, chatGPT, ...)  
   📝 direct creative projects  (specialized on interactive 3D web applications)
 
 Check out my portfolio on my [website](https://dankylabs.com)

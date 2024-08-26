@@ -2,7 +2,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,react,threejs,blender,p5js,photoshop,html,css,tailwind,solidity,r,ableton)](https://skillicons.dev)
 
 Hi there, my name is Jasper, I am a creative web developer and e-commerce expert!  
-After studying abroad in the Netherlands, I am now based in Berlin. 
+After studying abroad in the Netherlands, I am now based in Berlin.  
+I love using my braod skillset to bring complex, creative projects to life!
 I am excited about:
 
 - art, design & technology
@@ -14,7 +15,7 @@ I am excited about:
   🎨 design beautiful & performant landing pages  
   💰 build custom shopify themes & apps  
   🤖 code business automations (gmail, sheets, shopify, zapier, chatGPT, ...)  
-  📝 direct creative projects  (specialized on interactive 3D web applications)
+  📝 direct creative projects (specialized on interactive 3D web applications)
 
 Check out my portfolio on my [website](https://dankylabs.com)
 

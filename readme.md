@@ -11,7 +11,7 @@ I am really excited about:
   
 ## What I can do for Your Business 
   
-  🎨 design beautiful & performant websites   
+  🎨 design beautiful & fast websites   
   🤑 build custom shopify stores & apps    
   🤖 create business automations (chatGPT, gmail, sheets, shopify, zapier, etc - accroding to your needs)     
   💳 code blockchain smart contracts (ETH, SOL) and setup crypto payments and wallet integration    

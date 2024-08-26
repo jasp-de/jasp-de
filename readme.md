@@ -2,11 +2,11 @@
 [![My Skills](https://skillicons.dev/icons?i=js,react,threejs,blender,p5js,photoshop,html,css,tailwind,solidity,r,ableton)](https://skillicons.dev)
 
 Hi there, my name is Jasper, I am a creative web developer and e-commerce expert!  
-After studying abroad in the Netherlands, I am now based in Berlin.  
+After studying in the Netherlands, I am now based in Berlin.  
 I am really excited about:
 
 - art, design & technology
-- AI & business automations
+- AI for SMBs
 - psychology & health 
   
 ## What I can do for Your Business 

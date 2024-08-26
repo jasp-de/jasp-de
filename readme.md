@@ -11,7 +11,7 @@ I am excited about:
   
 ## What i can do for you:  
   
-  🎨 design beautiful landing pages  
+  🎨 design beautiful & performant landing pages  
   💰 build custom shopify themes & apps  
   🤖 code business automations (gmail, sheets, shopify, zapier, chatGPT, ...)  
   📝 direct creative projects  (specialized on interactive 3D web applications)

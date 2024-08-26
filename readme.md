@@ -1,5 +1,5 @@
 # Creative Web Development & E-Commerce
-[![My Skills](https://skillicons.dev/icons?i=js,react,threejs,blender,p5js,ps,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,threejs,react,nextjs,p5js,blender,ps,figma,mongodb,r,solidity,ableton)](https://skillicons.dev)
 
 Hi there, my name is Jasper, I am a web developer and e-commerce expert!  
 Born and raised in Germany, studied in the Netherlands, now based in Berlin.  

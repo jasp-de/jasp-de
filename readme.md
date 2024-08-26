@@ -1,5 +1,5 @@
 # Creative Web Development
-[![My Skills](https://skillicons.dev/icons?i=js,react,threejs,blender,p5js,photoshop,html,css,tailwind,solidity,r,ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,threejs,blender,p5js,photoshop,html,css,tailwind,nextjs,solidity,mongodb,docker,r,)](https://skillicons.dev)
 
 Hi there, my name is Jasper, I am a creative web developer and e-commerce expert!  
 Born and raised in Germany, studied in the Netherlands, now based in Berlin.  
@@ -11,10 +11,10 @@ I am really excited about:
   
 ## What I can do for Your Business 
   
-  🎨 design beautiful & performant websites 
-  🤑 build custom shopify stores & apps  
-  🤖 create business automations (chatGPT, gmail, sheets, shopify, zapier, etc - accroding to your needs)   
-  💳 code blockchain smart contracts (ETH, SOL) and setup crypto payments and wallet integration  
+  🎨 design beautiful & performant websites   
+  🤑 build custom shopify stores & apps    
+  🤖 create business automations (chatGPT, gmail, sheets, shopify, zapier, etc - accroding to your needs)     
+  💳 code blockchain smart contracts (ETH, SOL) and setup crypto payments and wallet integration    
   📝 develop interactive 3D web applications: showrooms, product customizers, galleries, virtual events, ...
 
 I love using my skills in programming, marketing and business development to bring complex creative projects to life!  

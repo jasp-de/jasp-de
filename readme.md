@@ -7,7 +7,7 @@ I am really excited about:
 
 - art, design & technology
 - AI & business automations
-- health, fitness & nutrition 
+- health, fitness & nutrition
   
 ## What i can do for you:  
   

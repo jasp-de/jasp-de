@@ -1,4 +1,4 @@
-# Creative Web Developement
+# Creative Web Development
 [![My Skills](https://skillicons.dev/icons?i=js,react,threejs,blender,p5js,photoshop,html,css,tailwind,solidity,r,ableton)](https://skillicons.dev)
 
 Hi there, my name is Jasper, I am a creative web developer and e-commerce expert!  

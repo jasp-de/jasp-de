@@ -9,12 +9,13 @@ I am really excited about:
 - AI & business automations
 - psychology & health 
   
-## What i can do for you  
+## What I can do for Your Business 
   
   🎨 design beautiful & performant landing pages  
   🤑 build custom shopify stores & apps  
-  🤖 code business automations (gmail, sheets, shopify, zapier, chatGPT, ...)  
-  📝 lead creative projects (specialized in interactive 3D web applications)
+  🤖 develop business automations (gmail, sheets, shopify, zapier, chatGPT, ...
+  💳 code blockchain smart contracts (ETH) and integrate crypto payment services 
+  📝 lead creative web projects (interactive 3D web applications)
 
 I love using my skills in programming, marketing and business develpoment to bring complex creative projects to life!  
 Check out my portfolio on my [website.](https://dankylabs.com)

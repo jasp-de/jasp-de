@@ -6,5 +6,5 @@ Things I get excited about:
 - automizing tedious tasks
 - health & fitness
 
-Check out my portfolio on my [website](https://dankylabs.com)
-(code.jpg)
+Check out my portfolio on my [website](https://dankylabs.com)  
+![programmer humor](code.jpg)

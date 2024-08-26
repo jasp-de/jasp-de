@@ -6,7 +6,6 @@ After studying abroad in the Netherlands, I am now based in Berlin.
 I am excited about:
 
 - art, design & technology
-- 
 - AI & business automations
 - health, fitness & nutrition
   
@@ -15,7 +14,7 @@ I am excited about:
   🎨 design beautiful landing pages  
   💰 build custom shopify store themes & apps  
   🤖 code business automations (gmail, shopify, zapier, chatGPT, ...)  
-  📝 direct creative projects involving interactive 3D web applications
+  📝 direct creative projects  (specialized on interactive 3D web applications)
 
 Check out my portfolio on my [website](https://dankylabs.com)
 

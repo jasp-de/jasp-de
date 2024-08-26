@@ -3,12 +3,12 @@
 
 Hi there, my name is Jasper, I am a creative web developer and e-commerce expert!  
 After studying abroad in the Netherlands, I am now based in Berlin.  
-I love using my braod skillset to bring complex, creative projects to life!
+I love using my braod skillset in programming, marketing and business develpoment to bring complex, creative projects to life!
 I am excited about:
 
 - art, design & technology
 - AI & business automations
-- health, fitness & nutrition
+- health, fitness & nutrition 
   
 ## What i can do for you:  
   

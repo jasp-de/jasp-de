@@ -9,7 +9,7 @@ I am really excited about:
 - AI & business automations
 - psychology & health 
   
-## What i can do for you:  
+## What i can do for you  
   
   🎨 design beautiful & performant landing pages  
   🤑 build custom shopify stores & apps  

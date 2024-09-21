@@ -11,11 +11,11 @@ I am really excited about:
   
 ## What I can do for Your Business 
   
-  🎨 design & code beautiful fast websites   
-  🤑 build custom shopify stores & apps    
-  🤖 create business automations (chatGPT, gmail, sheets, shopify, klaviyo, zapier, etc - according to your needs)     
-  💳 write blockchain smart contracts (ETH, SOL) and setup crypto payments and wallet integration    
-  📝 develop interactive 3D web applications: showrooms, product customizers, galleries, virtual conferences and more!
+  🎨 beautiful fast websites   
+  🤑 custom shopify stores & apps    
+  🤖 AI business automations (chatGPT, gmail, sheets, shopify, klaviyo, zapier, etc - according to your needs)     
+  💳 blockchain smart contracts (ETH & SOL), crypto payments, wallet integration
+  📝 interactive 3D web applications: showrooms, product customizers, galleries, virtual conferences and more!
 
 I love using my broad skillset to bring creative projects to life!   
 Lets chat about your project! Schedule a [Free Call](https://dankylabs.com/contact) with me.  

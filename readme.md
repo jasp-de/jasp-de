@@ -14,7 +14,7 @@ I am really excited about:
   🎨 beautiful fast websites   
   🤑 custom shopify stores & apps    
   🤖 AI business automations (chatGPT, gmail, sheets, shopify, klaviyo, zapier, etc - according to your needs)     
-  💳 blockchain smart contracts (ETH & SOL), crypto payments, wallet integration
+  💳 blockchain smart contracts (ETH & SOL), crypto payments, wallet integration  
   📝 interactive 3D web applications: showrooms, product customizers, galleries, virtual conferences and more!
 
 I love using my broad skillset to bring creative projects to life!   

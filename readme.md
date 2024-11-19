@@ -19,7 +19,7 @@ I am really excited about:
 
 I love using my broad skillset to bring creative projects to life!   
 Lets chat about your project! Schedule a [Free Call] with me.  
-Or you can check out my [portfolio.]  
+Or you can check out my [portfolio].  
 
 ---
 ![programmer humor](code.jpg)

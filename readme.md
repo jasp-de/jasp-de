@@ -18,8 +18,8 @@ I am really excited about:
   📝 interactive 3D web applications: showrooms, product customizers, galleries, virtual conferences and more!
 
 I love using my broad skillset to bring creative projects to life!   
-Lets chat about your project! Schedule a [Free Call](https://dankylabs.com/contact) with me.  
-Or you can check out my [portfolio.](https://dankylabs.com)  
+Lets chat about your project! Schedule a [Free Call] with me.  
+Or you can check out my [portfolio.]  
 
 ---
 ![programmer humor](code.jpg)
